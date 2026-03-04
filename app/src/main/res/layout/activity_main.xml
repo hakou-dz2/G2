@@ -47,7 +47,7 @@
             android:layout_weight="2"
             android:text="@string/reset"
             android:textAlignment="viewStart"
-            android:textSize="20sp"
+            android:textSize="16sp"
             android:textStyle="italic" />
 
         <Button
